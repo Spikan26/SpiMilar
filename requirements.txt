@@ -1,0 +1,5 @@
+websocket-client
+yt_dlp
+python-vlc
+requests
+update_check
